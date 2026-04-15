@@ -1,5 +1,5 @@
 {
-    "name": "my-project-devcontainer",
+    "name": "my-project-devcontainer2",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
         "ghcr.io/devcontainers/features/go:1": {
